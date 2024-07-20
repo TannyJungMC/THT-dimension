@@ -1,1 +1,1 @@
-A small datapack that added my void dimension specific, not important unless you remove the mod and it don't let you to play your world because of error "missing dimension".
+A small datapack that added my void dimension specific, not important unless you remove the mod and it don't let you to play your world because of error "missing dimension". My dimension only use for generate trees from system called "Auto Gen", not a place to go for sure.
